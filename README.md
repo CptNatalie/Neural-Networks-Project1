@@ -1,1 +1,1 @@
-# neural-network-challenge-1
+# Neural Networks Project 1
